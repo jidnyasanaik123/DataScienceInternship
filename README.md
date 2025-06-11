@@ -1,4 +1,4 @@
-## 1. 🛍️ Black Friday Sales Prediction
+## 🛍️ Black Friday Sales Prediction
 - Built regression models (Random Forest, XGBoost) to predict customer purchase amounts using demographic and historical sales data.
 - Achieved 85%+ accuracy and revealed actionable customer segments based on EDA.
 
